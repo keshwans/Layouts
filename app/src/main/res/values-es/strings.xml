@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="salutation_text">¡Hola</string>
+    <string name="welcome_msg_text">Bienvenido al mundo de Android</string>
+
+
+</resources>

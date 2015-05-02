@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="salutation_text">Hello</string>
+    <string name="welcome_msg_text">Don\'t know German, so Welcome to the world of Android</string>
+
+</resources>

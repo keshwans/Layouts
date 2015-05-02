@@ -1,0 +1,9 @@
+<resources>
+    <string name="salutation_text">Hello</string>
+    <string name="welcome_msg_text">Welcome to the world of Android</string>
+
+
+    <string name="app_name">Layouts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,68 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+# IntelliJ ignores
+.idea
+*/*.iml
+*/*.ipr
+*/*.iws
+*/.idea/
+out
+
+# Generic Android ignores
+target
+gen-external-apklibs/
+
+#Maven
+release.properties
+pom.xml.*
+
+# Folder containing all the Google Play APKs
+apks
+
+# gradle related
+.gradle
+
+documents/oldVersionCode
+
+# generated files
+**/build/*
+
+# OSX files
+.DS_Store
+
+# Android Studio
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+Optional - for older project format, add this section to your gitignore file:
+
+
+/*/out
+/*/*/build
+/*/*/production
+*~
+*.swp
+
+# generated files
+**/build/*
+
